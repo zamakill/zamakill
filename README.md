@@ -1,16 +1,14 @@
-## Hi there 👋
+## Salve, chega mais 🐵
 
-<!--
-**zamakill/zamakill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nome é Murilo Zamarioli
 
-Here are some ideas to get you started:
+       -Estou fazendo o curso do Alura
+       -Estou treinado e aprendendo a linguagem JavaScript
+       -Utilizarei esse espaço para testes e divulgação de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Se quiser entrar em contato comigo  📫
+   
+    00001124989717SP@al.educacao.sp.gov.br
+
+    ![](https://media1.tenor.com/m/EJebvFfoU74AAAAC/richy-alford.gif)
+    
