@@ -9,6 +9,5 @@
   ## Se quiser entrar em contato comigo  📫
    
     00001124989717SP@al.educacao.sp.gov.br
-
-    ![](https://media1.tenor.com/m/EJebvFfoU74AAAAC/richy-alford.gif)
+  ![](https://media.tenor.com/T7BCDQh_tMgAAAAM/gyomei-himejima.gif)
     
